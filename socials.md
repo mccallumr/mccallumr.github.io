@@ -16,7 +16,7 @@
         		<h1>My Social Media:</h1> 
 		<style>
 			.social-icon:hover {
-			color: ##756FDF;
+			color: #756FDF;
 			}
 		</style>
 			<a class="_social-icon" href="https://www.facebook.com/profile.php?id=100084705586859" target="_blank">
