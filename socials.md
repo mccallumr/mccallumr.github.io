@@ -18,8 +18,7 @@
 			<a class="_social-icon" href="https://www.facebook.com/profile.php?id=100084705586859" target="_blank">
 			<ion-icon name="logo-facebook"></ion-icon>
 			</a>
-		<p>
-		</p>
+		<p>			</p>
 			<a class="_social-icon" href="https://www.instagram.com/rachel.mc.callum/?hl=en" target="_blank">
 			<ion-icon name="logo-instagram"></ion-icon>
 				
