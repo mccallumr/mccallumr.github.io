@@ -14,7 +14,7 @@
     		</ul>
 		</nav>
         		<h1>My Social Media:</h1> 
-			<a href="https://www.facebook.com/profile.php?id=100084705586859">
+			<a href="https://www.facebook.com/profile.php?id=100084705586859" target="_blank">
 			<ion-icon name="logo-facebook"></ion-icon>
 			</a>
 			<p> <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
