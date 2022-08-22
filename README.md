@@ -9,7 +9,7 @@
 		<nav>
     		<ul>
         		<li><a href="/">home</a></li>
-	        	<li><a href="/aboutme">about</a></li>
+	        	<li><a href="/aboutme">about me</a></li>
         		<li><a href="/socials">socials</a></li>
     		</ul>
 		</nav>
