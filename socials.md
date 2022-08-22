@@ -14,16 +14,15 @@
     		</ul>
 		</nav>
         		<h1>My Social Media:</h1> 
-		<style>
-			.social-icon:hover {
-			color: #aaaaa;
-			}
-		</style>
+		
 			<a class="_social-icon" href="https://www.facebook.com/profile.php?id=100084705586859" target="_blank">
 			<ion-icon name="logo-facebook"></ion-icon>
 			</a>
+		<p>
+		</p>
 			<a class="_social-icon" href="https://www.instagram.com/rachel.mc.callum/?hl=en" target="_blank">
 			<ion-icon name="logo-instagram"></ion-icon>
+				
 			</a>	
 			<p> <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 			<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
