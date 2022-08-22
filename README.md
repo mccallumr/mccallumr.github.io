@@ -1,4 +1,6 @@
-# home
+<!--This is a personal website for Rachel McCallum.
+-->
+# Home
 
 <html>
 	<head>
@@ -8,9 +10,9 @@
 	<body>
 		<nav>
     		<ul>
-        		<li><a href="/">home</a></li>
-	        	<li><a href="/aboutme">about me</a></li>
-        		<li><a href="/socials">socials</a></li>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/aboutme">About Me</a></li>
+        		<li><a href="/socials">Socials</a></li>
     		</ul>
 		</nav>
         		<h1>This is: Rachel McCallum </h1> 
