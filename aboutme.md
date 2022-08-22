@@ -1,4 +1,4 @@
-# about me
+# About Me
 
 <html>
 	<head>
@@ -8,9 +8,9 @@
 	<body>
 		<nav>
     		<ul>
-        		<li><a href="/">home</a></li>
-	        	<li><a href="/aboutme">about me</a></li>
-        		<li><a href="/socials">socials</a></li>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/aboutme">About Me</a></li>
+        		<li><a href="/socials">Socials</a></li>
     		</ul>
 		</nav>
         		<h1>More About Me </h1> 
