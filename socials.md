@@ -22,7 +22,7 @@
 			<a class="_social-icon" href="https://www.instagram.com/rachel.mc.callum/?hl=en" target="_blank">
 			<ion-icon name="logo-instagram"></ion-icon>	
 			</a>	
-			
+		<p> </p>
 			<a class="_social-icon" href="https://www.linkedin.com/in/rachel-mccallum-85b89524b/" target="_blank">
 			<ion-icon name="logo-linkedin"></ion-icon>
 				
